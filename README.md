@@ -65,12 +65,6 @@ OPENAI_API_KEY=your_openai_or_openrouter_key
 node index.js
 ```
 
-OR (if using a dev script):
-
-```bash
-npm run dev
-```
-
 ---
 
 ### 🧪 Development Notes
