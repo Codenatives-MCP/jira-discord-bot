@@ -91,7 +91,7 @@ You can interact with the bot using natural language, such as:
 * **Node.js**
 * **discord.js**
 * **Axios**
-* **OpenAI/OpenRouter**
+* **OpenAI**
 * **Jira REST API**
 * **fuzzball.js** (for fuzzy matching)
 
